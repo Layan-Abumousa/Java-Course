@@ -1,2 +1,31 @@
-
+1. Write a java method to print your name :)
+2. Java method to print array elements.
+3. Write a Java method to find the maximum of two numbers.
+4. Create a method to calculate the factorial of a given number.
+5. Implement a method to check if a number is prime or not.
+6. Write a Java method to reverse a given string.
+7. Develop a method to check if a string is a palindrome.
+8. Create a method to calculate the sum of digits of a given number.
+9. Implement a method to calculate the area of a circle given its radius.
+10. Write a method to check if a year is a leap year.
+11. Develop a method to generate Fibonacci series up to a given number of terms.
+12. Write a Java method to find the GCD (Greatest Common Divisor) of two numbers.
+13. Implement a method to convert temperature from Celsius to Fahrenheit.
+14. Develop a method to count the occurrences of a specific character in a string.
+15. Create a method to check if a given number is an Armstrong number.
+16. Write a Java method to find the sum of all elements in an array.
+17. Implement a method to find the largest element in an array.
+18. Develop a method to sort an array of integers in ascending order.
+19. Write a method to merge two arrays.
+20. Create a method to find the average of elements in an array.
+21. Java method to count the number of digits in a given number
+22. Java method to reverse the digits of a given number
+23. Java recursive method to print “hi” n times. 
+24. Write a recursive Java method to calculate the factorial of a non-negative integer.
+25. Implement a recursive Java method to calculate the nth Fibonacci number.
+26. Write a recursive Java method to find the count the digits in a positive integer.
+27. Write a recursive Java method to find the sum of digits of a positive integer.
+28. Create a recursive Java method to calculate the power of a number (a^b).
+29. Create a recursive Java method to compute the GCD (Greatest Common Divisor) of two integers.
+30. Implement a recursive Java method to find the length of a given string
 
