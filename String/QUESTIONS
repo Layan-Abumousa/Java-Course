@@ -41,13 +41,13 @@ uppercase and the rest lowercase.
 
 21.Find the longest repetition of consecutive characters in the string.
 
-22.Find the length of the longest palindrome sequence in the string.
+22.Check if the string is a palindrome.
 
 23.How many characters need to be removed/added to the string to make it apalindrome?
 
 24.Check if it's possible for the string to be a palindrome.
 
-25.Check if the string is a palindrome.
+25.Find the length of the longest palindrome sequence in the string.
 
 26.Arrange the characters in ascending order.
 
