@@ -3,7 +3,7 @@
 
 public static void main(String[] args) {
       
-         String s = "sjsjj";
+         String s = "sjsjjfff";
        int freq[] = freq(s.toCharArray());
         int odd = 0;
         for (int i = 0; i < freq.length; i++) {
@@ -11,10 +11,10 @@ public static void main(String[] args) {
                 odd++;
             }
         }
-        if (odd > 1) {
-            System.out.println("won't be pal");
+        if (odd>1) {
+        System.out.println("Character need to be added or removed " + (odd-1));
         }
         else
-            System.out.println("May be Pal");
+            System.out.println("no need");
 
 }
