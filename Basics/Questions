@@ -1,0 +1,83 @@
+1.Write a Java program to print 'Hello' on screen and your name on a separate line.
+2. Write a Java program to print the sum of two numbers.
+3. Write a Java program to divide two numbers and print them on the screen.
+4. Write a Java program to print the sum (addition), multiply, subtract, divide, and remainder of two numbers.
+5. Write a Java program that takes a number as input and prints its multiplication table up to 10.
+6. Write a program to check if a given number is a multiple of 2 and 3.
+7. Write a program to print the sum of all natural numbers up to a given number.
+8. Write a Java program to print the area and perimeter of a rectangle.
+9. Write a Java program to swap two variables.
+10. Write a Java program to convert an integer number to a binary number.
+11. Write a program that takes two integers as input and prints the larger one.
+12. Write a program that takes a character as input and prints whether it is a vowel or a consonant.
+13. Write a program that takes an integer as input and prints whether it is positive, negative, or zero.
+14. Write a program that takes three integers as input and prints the largest one.
+15. Write a program that takes a year as input and prints whether it is a leap year or not.
+16. Write a program that takes an integer as input and prints whether it is even or odd.
+17. Write a program that takes three integers as input and prints the smallest one.
+18. Write a program that takes an integer as input and prints whether it is divisible by both 2 and 3.
+19. Write a program that takes an integer as input and prints whether it is a multiple of 5.
+20. Write a Java program to print the ASCII value of a given character.
+21. Write a Java program to calculate the sum of two integers and return true if the sum is equal to a third 
+integer.
+22. Write a Java program that accepts three integers from the user. It returns true if the second number is 
+higher than the first number and the third number is larger than the second number. If "abc" is true, the 
+second number does not need to be larger than the first number.
+23. Write a Java program that accepts three integers from the user and returns true if two or more of them 
+(integers) have the same rightmost digit. The integers are non-negative.
+Sample Output:
+Input the first number: 5 
+ Input the second number: 10 
+Input the third number: 15 
+The result is: true
+24. Write a Java program to convert seconds to hours, minutes and seconds.
+ Sample Output:
+ Input seconds: 86399 
+ 23:59:59
+25. Write a Java program to accept an integer and count the factors of the number.
+26. Write a Java program to count the number of digits in a given integer.
+27. Write a Java program to find the sum of digits of a given integer.
+28. Write a Java program to find the product of digits of a given integer.
+29. Write a Java program to reverse the digits of a given integer.
+30. Write a Java program to check if a given integer is a palindrome number.
+31. Write a Java program to find the largest digit in a given integer.
+32. Write a Java program to find the smallest digit in a given integer.
+33. Write a Java program to check if a given integer contains a specific digit.
+34. Write a Java program to count the occurrences of a specific digit in a given integer.
+35. Write a Java program to find the difference between the sum of even digits and the sum of odd digits in a 
+given integer.
+36. Write a Java program that accepts two integer values between 25 and 75 and returns true if there is a 
+common digit in both numbers.
+ Sample Output:
+ Input the first number: 35 
+ Input the second number: 45 
+ Result: true
+37. Write a Java program to generate the following pattern using nested for loops:
+1 
+1 2
+1 2 3
+1 2 3 4 
+1 2 3 4 5
+38. Write a Java program to compute the sum of the first 100 prime numbers.
+Sample Output:
+Sum of the first 100 prime numbers: 24133 
+39. Write a Java program that accepts four integers from the user and prints equal if all four are equal, 
+and not equal otherwise.
+Sample Output: 
+Input first number: 25
+Input second number: 37
+Input third number: 45
+Input fourth number: 23
+Numbers are not equal!
+40. Write a Java program to find the GCD (Greatest Common Divisor) of two numbers.
+41. Write a Java program to find the prime factors of a given number.
+42. Write a Java program to check if a given number is an Armstrong number or not.
+43. Write a Java program to check if a given number is an a buzz number or not.
+A number is said to be Buzz Number if it ends with 7 or is divisible by 7. Example: 1007 is a Buzz Number.
+44. Write a Java program to check if a given number is an a duck number or not.
+A Duck number is a number which has zeroes present in it, but there should be no zero present in the 
+beginning of the number. For example 3210.
+45. Write a Java program to generate the following pattern using nested for loops:
+*#*#*#*#*#*#
+#*#*#*#*#*#*
+*#*#*#*#*#*#
