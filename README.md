@@ -1,12 +1,28 @@
 **PROBLEMS**
 1.Find the frequency of a character in a string.
+
+
 2.Calculate the count of characters excluding spaces.
+
+
 3.Determine the number of words in a string.
+
+
 4.Count the number of vowel characters excluding 'e' in a string.
+
+
 5.Count the occurrences of vowel characters and store them in an array.
+
+
 6.Store words in an array without using any built-in methods.
+
+
 7.Remove extra spaces from a string.
+
+
 8.Print the last word of a string.
+
+
 9.Print the last two words of a string.
 10. Rotate right by one character.
 11.Rotate left by one character.
