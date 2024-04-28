@@ -1,5 +1,6 @@
 //17.Replace one word with another.
 
+
 public static void main(String[] args) {
     String s = "hi guys how are you" ;
     String s1 = "hi" , s2 ="holaa";
