@@ -1,5 +1,6 @@
 //1.Find the frequency of a character in a string.
 
+
 public static void main(String[] args) {
     String s = "hello world";
     char ch = 'l';
