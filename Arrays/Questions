@@ -1,0 +1,40 @@
+1-	initialize the array, fill it, and print elements.
+2-	print the array in reverse. 
+3-	find the sum of array elements. 
+4-	check each element whether it's odd or even. 
+5-	Reverse the array.
+6-	find the largest element.
+7-	find the smallest element. 
+8-	swap the max element with the min element. 
+9-	print prime elements. 
+10-	print elements with an even index. 
+11-	find the average for even and odd elements. 
+12-	search for a specific element. 
+13-	sort array. 
+14-	print the number of occurrences of a specific element. 
+15-	find the largest two elements using only one loop. 
+16-	find the largest two elements using two loops. 
+17-	find the largest two elements using Arrays.sort(arr).
+18-	Find peak elements (a peak element that is not smaller than its neighbors).
+19-	Find the length of the longest consecutive series of odd elements.
+20-	Find the length of the longest consecutive series of 1s elements in a binary array.
+21-	Swap each pairs. 
+22-	Sort the array (even odds).
+23-	Rotate the array right. 
+24-	Rotate the array left.
+25-	Remove element. 
+26-	Merge two arrays .
+27-	Check if the array can be palindrome. 
+28-	Check if the array is palindrome.
+29-	Check if the array is increasing or decreasing. 
+30-	Write a Java program to remove duplicate elements from an array.
+31-	19. Write a Java program to add two matrices of the same size.
+32-	Write a Java program to get the majority element from an array of integers containing duplicates. 
+Majority element: A majority element is an element that appears more than n/2 times where n is the array size.
+
+33-	Write a Java program to find common elements between two integer arrays.
+
+34-	Write a Java program to print all the LEADERS in the array. 
+ Note: An element is a leader if it is greater than all the elements to its right side.
+
+
