@@ -1,15 +1,15 @@
-1.	Initialize the array, fill it, and print elements.
-2.	Print the array in reverse. 
-3.	Find the sum of array elements. 
-4.	Check each element whether it's odd or even. 
-5.	Reverse the array.
-6.	Find the largest element.
-7.	Find the smallest element. 
-8.	Swap the max element with the min element. 
-9.	Print prime elements. 
-10.	Print elements with an even index. 
-11.	Find the average for even and odd elements. 
-12.	Search for a specific element. 
+1.Initialize the array, fill it, and print elements.
+2.Print the array in reverse. 
+3.Find the sum of array elements. 
+4.Check each element whether it's odd or even. 
+5.Reverse the array.
+6.Find the largest element.
+7.Find the smallest element. 
+8.Swap the max element with the min element. 
+9.Print prime elements. 
+10.Print elements with an even index. 
+11.Find the average for even and odd elements. 
+12.Search for a specific element. 
 13.	Sort array. 
 14.	Print the number of occurrences of a specific element. 
 15.	Find the largest two elements using only one loop. 
