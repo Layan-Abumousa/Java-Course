@@ -27,7 +27,7 @@
 27.Find the length of the longest consecutive increasing elememts .
 28.Check if the array is palindrome.
 29.Check if the array is increasing or decreasing. 
-30.Write a Java program to remove duplicate elements from an array.
+30.Write a Java program to print unique elements from an array.
 31.Write a Java program to add two matrices of the same size.
 
 32.Write a Java program to get the majority element from an array of integers containing duplicates. 
